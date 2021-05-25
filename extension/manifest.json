@@ -1,6 +1,6 @@
 {
     "name": "Crypto Tracker",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Chrome Extension to Track Your Favourite Crypto Price and Market Cap.",
     "icons":{
       "128":"128.png"
